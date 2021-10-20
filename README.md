@@ -1,6 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barius13&theme=react&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barius13&theme=react)](https://github.com/barius13/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barius13&theme=github_dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barius13&theme=github_dark)](https://github.com/barius13/github-readme-stats)
 
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
